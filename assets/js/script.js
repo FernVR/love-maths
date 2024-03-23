@@ -105,6 +105,7 @@ function incrementScore() {
 
 }
 
+
 /**
  * Gets the current tally of incorrect answers from the DOM and increments it by 1
  */
